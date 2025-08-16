@@ -14,7 +14,7 @@ export function CourseGrid({ courses, onMessengerJoin }: CourseGridProps) {
           <Search className="h-16 w-16 mx-auto mb-6 opacity-30" />
           <h3 className="text-xl font-semibold mb-3">No courses found</h3>
           <p className="text-base max-w-md mx-auto">
-            Try adjusting your search terms or filter settings to find the courses you're looking for
+            Try adjusting your search terms or filter settings to find the courses you&aposre looking for
           </p>
         </div>
       </div>
