@@ -54,7 +54,7 @@ export function CourseCard({ course, onMessengerJoin }: CourseCardProps) {
 
         {course.status === "disabled" && (
           <p className="text-xs text-muted-foreground text-center bg-muted/50 rounded-md py-2">
-            This course is currently not available for enrollment
+            This group chat is currently unavailable. 
           </p>
         )}
       </CardContent>
